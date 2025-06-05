@@ -1,0 +1,4 @@
+#ifndef RTW_HEADER_AR_HeadLampSWC_types_h_
+#define RTW_HEADER_AR_HeadLampSWC_types_h_
+#endif
+

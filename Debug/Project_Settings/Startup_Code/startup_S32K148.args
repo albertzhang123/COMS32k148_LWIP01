@@ -1,0 +1,9 @@
+-c
+-I"C:/Users/IBM/workspaceS32DS.ARM.2.2/COMS32k148/COMS32k148/include"
+-x assembler-with-cpp
+-DSTART_FROM_FLASH
+-g3
+-mcpu=cortex-m4
+-mthumb
+-specs=nosys.specs
+--sysroot="F:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib"
